@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="manual.xsl"?>
+<manual>
+	<title>
+		Instruction Manual: Blender
+	</title>
+	<introduction>
+		<paragraph>
+			Welcome to the instruction manual for the blender. This device is designed to make preparing your favorite dishes easy and quick.
+		</paragraph>
+	</introduction>
+	<materials>
+		<section_title>
+			Materials List
+		</section_title>
+		<item>
+			<name>
+				Blender
+			</name>
+			<quantity>
+				1
+			</quantity>
+		</item>
+		<item>
+			<name>
+				Blender Base
+			</name>
+			<quantity>
+				1
+			</quantity>
+		</item>
+		<item>
+			<name>
+				Container
+			</name>
+			<quantity>
+				1
+			</quantity>
+		</item>
+		<item>
+			<name>
+				Lid
+			</name>
+			<quantity>
+				1
+			</quantity>
+		</item>
+	</materials>
+	<instructions>
+		<section_title>
+			Usage Instructions
+		</section_title>
+		<step number="1">
+			<description>
+				Place the blender base on a flat, stable surface.
+			</description>
+		</step>
+		<step number="2">
+			<description>
+				Securely attach the container to the base.
+			</description>
+		</step>
+		<step number="3">
+			<description>
+				Add the desired ingredients into the container.
+			</description>
+		</step>
+		<step number="4">
+			<description>
+				Place the lid on the container and ensure it is tightly closed.
+			</description>
+		</step>
+		<step number="5">
+			<description>
+				Turn on the blender by pressing the power button.
+			</description>
+		</step>
+		<step number="6">
+			<description>
+				After use, turn off the blender and unplug it from the outlet.
+			</description>
+		</step>
+	</instructions>
+	<maintenance>
+		<section_title>
+			Maintenance
+		</section_title>
+		<paragraph>
+			To ensure the longevity of the blender, it is recommended to clean the container and lid with warm, soapy water after each use. Avoid immersing the base in water.
+		</paragraph>
+	</maintenance>
+</manual>
